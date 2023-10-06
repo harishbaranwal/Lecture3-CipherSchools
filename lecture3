@@ -1,0 +1,7 @@
+ #include <iostream>
+ using namespace std;
+
+ int main(){
+cout<<"Lecture 3 has no assignment"<<endl;
+    return 0;
+ }
